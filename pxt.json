@@ -1,0 +1,26 @@
+{
+    "name": "Adam",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-tcs34725": "github:samnied/pxt-tcs34725#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
